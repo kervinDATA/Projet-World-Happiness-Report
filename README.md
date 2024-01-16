@@ -3,3 +3,5 @@ Objectifs :
 - Mettre en place un algorithme de prédiction du score du bonheur.
 
 Présentation et utilisation de l'algorithme sur STREAMLIT : https://appprojetwhp-weg7j3dtjfw4ygvuljpvqd.streamlit.app/
+
+Compte-rendu complet : Rapport World Happiness.docx-4.pdf
